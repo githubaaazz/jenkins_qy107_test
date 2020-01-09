@@ -24,7 +24,6 @@
   </properties>
 
   <dependencies>
-
               <!--servlet包-->
               <dependency>
                 <groupId>javax.servlet</groupId>
